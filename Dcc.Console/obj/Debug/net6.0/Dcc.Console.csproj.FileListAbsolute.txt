@@ -1,0 +1,17 @@
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/bin/Debug/net6.0/Dcc.Console
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/bin/Debug/net6.0/Dcc.Console.deps.json
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/bin/Debug/net6.0/Dcc.Console.runtimeconfig.json
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/bin/Debug/net6.0/Dcc.Console.dll
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/bin/Debug/net6.0/Dcc.Console.pdb
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/Dcc.Console.csproj.AssemblyReference.cache
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/Dcc.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/Dcc.Console.AssemblyInfoInputs.cache
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/Dcc.Console.AssemblyInfo.cs
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/Dcc.Console.csproj.CoreCompileInputs.cache
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/Dcc.Console.dll
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/refint/Dcc.Console.dll
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/Dcc.Console.pdb
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/Dcc.Console.genruntimeconfig.cache
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/ref/Dcc.Console.dll
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/bin/Debug/net6.0/YamlDotNet.dll
+/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/obj/Debug/net6.0/Dcc.Console.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c20hI1+waajeNFwZGr47sZFBpDAfPVWmNiBNCWDmQ4k18p8104+cZDN3RPRGBMrgm6VRrvOIe50DXGw3UXh0iQ==",
+  "success": true,
+  "projectFilePath": "/Users/joaogabrielmiranda/dev/docker-compose-composer/Dcc.Console/Dcc.Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/joaogabrielmiranda/.nuget/packages/yamldotnet/12.3.1/yamldotnet.12.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
